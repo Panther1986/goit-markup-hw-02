@@ -20,11 +20,11 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.nav-link .link:hover {
+.nav-link:hover {
     color: #404bbf;
 }
 
-.nav-link .link:focus {
+.nav-link:focus {
     color: #404bbf;
 }
 
@@ -39,11 +39,11 @@ body {
     color: #434455;
 }
 
-.nav-address-mail .link:hover {
+.nav-address-mail:hover {
     color: #404bbf;
 }
 
-.nav-address-mail .link:focus {
+.nav-address-mail:focus {
     color: #404bbf;
 }
 
@@ -70,11 +70,11 @@ body {
     cursor: pointer;
 }
 
-.first-section-button .link:hover {
+.first-section-button:hover {
     background-color: #404BBF;
 }
 
-.first-section-button .link:focus {
+.first-section-button:focus {
     background-color: #404BBF;
 }
 
@@ -169,6 +169,11 @@ color: #2E2F42;
 .logo-studio {
     color: #2e2f42;
 }
+
+.logo-studio-1 {
+    color: #f4f4fd;
+}
+
 .footer-text {
     line-height: 1.5;
     color: #F4F4FD;
