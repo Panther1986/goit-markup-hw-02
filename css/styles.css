@@ -179,3 +179,11 @@ color: #2E2F42;
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
+
+ul {
+    list-style-type: none;
+}
+
+a:link {
+    text-decoration: none;
+}
